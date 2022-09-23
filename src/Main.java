@@ -15,7 +15,7 @@ public class Main {
         Lion l2 = new Lion("Tuffis ");
 
         l1.roar();
-        l2.eat("pizze ");
+        l2.eat("pizzee ");
 /*
         ArrayList<Animal> animals = new ArrayList();
 
